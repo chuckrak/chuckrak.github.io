@@ -1,0 +1,3 @@
+[submodule "SportsAnalytics"]
+	path = SportsAnalytics
+	url = https://github.com/chuckrak/SportsAnalytics
