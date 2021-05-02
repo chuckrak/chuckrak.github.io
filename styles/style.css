@@ -30,3 +30,13 @@ p, li {
     line-height: 2;
     letter-spacing: 1px;
 }
+
+.header .nav {
+    margin: 1rem;
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.25em;
+}
