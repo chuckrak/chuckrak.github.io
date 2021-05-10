@@ -1,3 +1,6 @@
 [submodule "SportsAnalytics"]
 	path = SportsAnalytics
 	url = https://github.com/chuckrak/SportsAnalytics
+[submodule "Cooking"]
+	path = Cooking
+	url = https://github.com/chuckrak/Cooking
